@@ -1,5 +1,4 @@
-# Windows-basic-commands-batchscript
-Ex08-Windows-basic-commands-batchscript
+# Ex-08-Windows-basic-commands-batchscript
 
 # AIM:
 To execute Windows basic commands and batch scripting
@@ -28,9 +27,13 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "MyLab" on the desktop.
 
 
+
 ## COMMAND AND OUTPUT
 
+
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
+
+
 
 
 ## COMMAND AND OUTPUT
@@ -48,7 +51,6 @@ Move the "MyLab" directory to the "Documents" folder.
 
 
 ## COMMAND AND OUTPUT
-
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch script named "BackupScript.bat" that creates a backup of files with the ".docx" extension from the "Documents" folder to a new folder named "DocBackup" on the desktop.
